@@ -5,7 +5,6 @@ A record of my journey to becoming a market-ready software engineer.
 # Current Focus
 
 Month 1: 
-Doing exercises on 
 - Java Script
 - Python
 - Java
